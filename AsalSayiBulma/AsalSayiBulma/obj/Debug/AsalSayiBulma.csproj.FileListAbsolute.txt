@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.exe.config
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.exe
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\bin\Debug\AsalSayiBulma.pdb
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.exe
+C:\Users\ASUS\Documents\c#\AsalSayiBulma\AsalSayiBulma\obj\Debug\AsalSayiBulma.pdb
