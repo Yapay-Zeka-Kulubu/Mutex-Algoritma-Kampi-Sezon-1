@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = YapayZekaKulübüMutex
-build_property.ProjectDir = C:\Users\turke\OneDrive\Masaüstü\All-the-things\YapayZekaKulübüMutex\PrimeNumber\
+build_property.ProjectDir = C:\Software-Projects\eru-AI-mutex-algorithms\PrimeNumber\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

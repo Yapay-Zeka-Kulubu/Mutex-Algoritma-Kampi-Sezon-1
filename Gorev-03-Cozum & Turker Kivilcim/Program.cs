@@ -69,6 +69,7 @@ internal class Program
                 if (i % j == 0)
                 {
                     isPrime = false;
+                    break;
                 }
             }
 
