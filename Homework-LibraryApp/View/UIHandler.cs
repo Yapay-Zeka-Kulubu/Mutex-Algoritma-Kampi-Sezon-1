@@ -472,24 +472,24 @@ public class UIHandler
 
     void ImportPageUI(Author author)
     {
-#if WINDOWS
-        System.Console.WriteLine();
-        System.Console.WriteLine("Moving to the text file selection...");
-        Thread.Sleep(1000);
         System.Console.WriteLine();
         System.Console.WriteLine("You can only select text file and all the text inside the file will be saved as one page, appended to the current pages.");
-        Thread.Sleep(3000);
-        if (author.ImportPage())
+        Thread.Sleep(2000);
+        System.Console.WriteLine("Enter the path of text file: ");
+        string path = Console.ReadLine() ?? "";
+        System.Console.WriteLine(path);
+        if (author.ImportPage(path))
         {
             System.Console.WriteLine();
             System.Console.WriteLine("!!!Successfully saved!!!");
         }
         else
         {
+            System.Console.WriteLine();
+            System.Console.WriteLine("Here is the list of errors happened during the importing session");
+            System.Console.WriteLine("!!!There is no text file in that path!!!");
             System.Console.WriteLine("!!!The words exceeds 200 words limit!!!");
+            System.Console.WriteLine("!!!File is not a text(.txt) file!!!");
         }
-#else
-    System.Console.WriteLine("!!!To import a page to the app, you need to do be on windows platform!!!");
-#endif
     }
 }
