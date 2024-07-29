@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Dm3fCqd++Q=",
+  "dgSpecHash": "KjikPAn6SKE=",
   "success": true,
   "projectFilePath": "C:\\Software-Projects\\LibraryManagementApp\\LibraryManagementApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\turke\\.nuget\\packages\\windowsapicodepack.shell.commonfiledialogs\\1.1.5\\windowsapicodepack.shell.commonfiledialogs.1.1.5.nupkg.sha512"
+  ],
   "logs": []
 }
