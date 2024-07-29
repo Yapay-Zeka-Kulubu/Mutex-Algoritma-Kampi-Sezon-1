@@ -1,0 +1,15 @@
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfoInputs.cache
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.AssemblyInfo.cs
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.csproj.CoreCompileInputs.cache
+C:\Software-Projects\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.exe
+C:\Software-Projects\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.deps.json
+C:\Software-Projects\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.runtimeconfig.json
+C:\Software-Projects\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.dll
+C:\Software-Projects\LibraryManagementApp\bin\Debug\net8.0\LibraryManagementApp.pdb
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.dll
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\refint\LibraryManagementApp.dll
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.pdb
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.genruntimeconfig.cache
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\ref\LibraryManagementApp.dll
+C:\Software-Projects\LibraryManagementApp\obj\Debug\net8.0\LibraryManagementApp.sourcelink.json
