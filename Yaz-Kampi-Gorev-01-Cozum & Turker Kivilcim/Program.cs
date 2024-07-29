@@ -7,9 +7,10 @@ internal class Program
     {
         DatabaseManager.LoadAllRepos();
 
+        Console.InputEncoding = System.Text.Encoding.Unicode;
         UIHandler uIHandler = new UIHandler();
         uIHandler.RunTheApp();
-        
+
         DatabaseManager.SaveAllRepos();
     }
 }
