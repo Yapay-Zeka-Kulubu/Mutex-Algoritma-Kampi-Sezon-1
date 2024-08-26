@@ -1,0 +1,53 @@
+:root{
+    --custom-primary:#F8EDE3;
+    --custom-secondary:#8D493A;
+    --custom-third:#60342a;
+    --custom-fourth: #eccaab;
+    --custom-primary-hover:#f4fcb5;
+    --custom-secondary-hover: #a55e4d;
+}
+
+.bg-custom-primary{
+    background-color: var(--custom-primary);
+}
+
+.bg-custom-secondary{
+    background-color: var(--custom-secondary);
+}
+
+.bg-custom-third{
+    background-color: var(--custom-third);
+}
+
+.bg-custom-fourth{
+    background-color: var(--custom-fourth);
+}
+
+button.bg-custom-secondary:hover{
+    background-color: var(--custom-secondary-hover);
+}
+
+a.bg-custom-secondary:hover{
+    background-color: var(--custom-secondary-hover);
+}
+
+button.bg-custom-primary:hover{
+    background-color: var(--custom-primary-hover);
+}
+
+a.bg-custom-primary:hover{
+    background-color: var(--custom-primary-hover);
+}
+
+.fs-7{
+    font-size: 0.95rem;
+}
+
+.fs-8
+{
+    font-size: 0.85rem;
+}
+
+.fs-9{
+    font-size: 0.75rem;
+}
